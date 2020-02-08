@@ -4,13 +4,14 @@ planes the planes are scheduled to fly daily at noon. For this exercise, there a
 
 Day 1:
 
-Flight 1: Montreal airport (YUL) to Toronto (YYZ)
-Flight 2: Montreal (YUL) to Calgary (YYC)
+Flight 1: Montreal airport (YUL) to Toronto (YYZ), 
+Flight 2: Montreal (YUL) to Calgary (YYC),
 Flight 3: Montreal (YUL) to Vancouver (YVR)
 
 Day 2:
-Flight 4: Montreal airport (YUL) to Toronto (YYZ)
-Flight 5: Montreal (YUL) to Calgary (YYC)
+
+Flight 4: Montreal airport (YUL) to Toronto (YYZ),
+Flight 5: Montreal (YUL) to Calgary (YYC),
 Flight 6: Montreal (YUL) to Vancouver (YVR)
 
 With each flight returning to the YUL at midnight.
